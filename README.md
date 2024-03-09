@@ -31,3 +31,4 @@ REGISTER NO: 212223040022
 # Result
 
 # Output 
+![Exp 3](https://github.com/21003698/Correlation_Regression/assets/93427522/b7d1840e-940b-4520-ab4a-667348f111a6)
